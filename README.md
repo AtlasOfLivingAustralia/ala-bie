@@ -1,6 +1,10 @@
 ###    [![Build Status](https://travis-ci.com/AtlasOfLivingAustralia/ala-bie.svg?branch=develop)](https://travis-ci.com/AtlasOfLivingAustralia/ala-bie)
 
-This is the ALA version of the BIE front end. THE BIE handles general search duties and serves taxon/species pages. 
+[April 2022] The ALA version of the BIE front end has been moved to [ala-bie-hub](https://github.com/AtlasOfLivingAustralia/ala-bie-bub). 
+Other users can still use this repository for updating their own BIE.
+
+
+THE BIE handles general search duties and serves taxon/species pages. 
 This Grails app is a light-weight wrapper for [bie-plugin](https://github.com/AtlasOfLivingAustralia/bie-plugin) Grails plugin.
 For more details on the architecture see [BIE index](http://github.com/AtlasOfLivingAustralia/bie-index)
 

@@ -1,6 +1,6 @@
 ###    [![Build Status](https://travis-ci.com/AtlasOfLivingAustralia/ala-bie.svg?branch=develop)](https://travis-ci.com/AtlasOfLivingAustralia/ala-bie)
 
-[April 2022] The ALA version of the BIE front end has been moved to [ala-bie-hub](https://github.com/AtlasOfLivingAustralia/ala-bie-bub). 
+[April 2022] The _Atlas of Living Australia_ (ALA) version of the BIE front end has been moved to [ala-bie-hub](https://github.com/AtlasOfLivingAustralia/ala-bie-bub). 
 Other users can still use this repository for updating their own BIE.
 
 
